@@ -1,4 +1,4 @@
- ESFOT RPG: La Batalla de los ReinosPrototipo de videojuego de rol (RPG) por consola desarrollado en Java para aplicar los fundamentos de la Programación Orientada a Objetos (POO). Permite crear distintos tipos de héroes, consultar sus estadísticas, usar habilidades especiales y simular combates por turnos.📂 Estructura del ProyectoESFOT-RPG/
+ ESFOT RPG: La Batalla de los ReinosPrototipo de videojuego de rol (RPG) por consola desarrollado en Java para aplicar los fundamentos de la Programación Orientada a Objetos (POO). Permite crear distintos tipos de héroes, consultar sus estadísticas, usar habilidades especiales y simular combates por turnos. Estructura del ProyectoESFOT-RPG/
 ├── src/
 │   ├── Personajes/
 │   │   ├── Personaje.java
